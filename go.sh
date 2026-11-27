@@ -1,2 +1,2 @@
-echo "gogogo"
+echo "gogogogogogogo"
 
